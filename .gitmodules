@@ -4,3 +4,6 @@
 [submodule "Submodules/greedy"]
 	path = Submodules/greedy
 	url = https://github.com/pyushkevich/greedy.git
+[submodule "Submodules/ai-segmentation-wizard"]
+	path = Submodules/ai-segmentation-wizard
+	url = git@github.com:Pazitos10/ai-segmentation-wizard.git
